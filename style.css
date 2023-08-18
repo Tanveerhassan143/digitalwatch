@@ -20,9 +20,9 @@
   }
   .digital{
 
-    height: 100px;
+    height: 240px;
   
-    width: 360px;
+    width: 550px;
   
     position: relative;
   
@@ -52,9 +52,9 @@
 
     z-index: 999;
   
-    height: 85px;
+    height: 185px;
   
-    width: 345px;
+    width: 495px;
   
     background: #2d2f38;
   
@@ -69,9 +69,9 @@
   
     color: #fff;
   
-    font-size: 50px;
+    font-size: 90px;
   
-    font-weight: 600;
+    font-weight: 690;
   
     letter-spacing: 1px;
   
